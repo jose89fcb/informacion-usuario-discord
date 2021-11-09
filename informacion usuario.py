@@ -73,7 +73,7 @@ async def usuarioinfo(ctx, *, member:discord.Member =None):
 
 @bot.event
 async def on_ready():
-    print("BOT listo! registro chat")
+    print("BOT listo!")
 
  
  
