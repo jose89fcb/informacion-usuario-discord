@@ -1,7 +1,7 @@
-Necesitas instalar python 3.8.0 <a href="https://www.python.org/downloads/release/python-380/">
+Necesitas instalar python 3.8.0 <a href="https://www.python.org/downloads/release/python-380/">https://www.python.org/downloads/release/python-380/</a>
   <br>
 
-Crea un bot e un Token: <a href="https://discord.com/developers/applications">
+Crea un bot e un Token <a href="https://discord.com/developers/applications">https://discord.com/developers/applications</a>
   
   <br>
   <br>
