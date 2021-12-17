@@ -8,3 +8,7 @@ Crea un bot e un Token <a href="https://discord.com/developers/applications">htt
   Una vez instales todo deberas de ejecutar el comando de la siguiente manera:
   <br>
   <img src="https://i.imgur.com/crqSbLl.png">
+<br>
+<a title="Mi twitter" href="https://twitter.com/jose89fcb"><img src="https://i.imgur.com/QCHCEon.png" alt="Mi twitter" /></a>
+<br>
+Mi twitter
